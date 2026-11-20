@@ -1,0 +1,16 @@
+{
+	"name": "srinithi29-ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11498d53-363e-4277-b858-d26e6ca0d97f",
+		"tenantId": "b296f38f-787d-4e85-a1c8-020f792250b2"
+	}
+}
